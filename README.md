@@ -9,6 +9,7 @@ To work around this, in Luongo et al. (In Review) I modified forcing.F90 to allo
 I also output U1_1 and V1_1, surface UVEL and VVEL, at daily resolution by adding these two variables to gx1v6_tavg_contents daily stream. These variables were pre-allocated within baroclinic.F90 but are not usually output. 
 
 I found this blog post helpful: https://bb.cgd.ucar.edu/cesm/threads/pop2-daily-ocean-temperature-output.3172/#post-13975
+
 As well as the POP2 manual section on time-averaging: https://www2.cesm.ucar.edu/models/cesm1.2/pop2/doc/faq/#developer
 
 To see my edits, search "luongo" in the .F90 file. Please reach out to me at mluongo(at)ucsd(dot)edu if you have any questions about these code modifications or the workflow.
