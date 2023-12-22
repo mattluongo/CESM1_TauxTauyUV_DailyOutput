@@ -14,8 +14,11 @@ As well as the POP2 manual section on time-averaging: https://www2.cesm.ucar.edu
 To see my edits, search "luongo" in the .F90 file. Please reach out to me at mluongo(at)ucsd(dot)edu if you have any questions about these code modifications or the workflow.
 
 Matt Luongo
+
 Scripps Institution of Oceanography, UCSD
+
 La Jolla, CA, USA
+
 December 2023
 
 
